@@ -1,0 +1,6 @@
+name: Mining
+main: com.Mining.Mining
+version: "1.0.4"
+api: ["1.0.0"]
+author: "若水"
+load: POSTWORLD
